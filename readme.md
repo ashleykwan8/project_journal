@@ -5,7 +5,7 @@
 
 ### Overview
 
-Replace this with a 1–2 sentence summary of your project idea
+A web app where users can prioritize and organize their class notes and create checklists for assignments.
 
 ### Technologies required (besides typical Hackbright tech stack)
 
