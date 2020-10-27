@@ -1,4 +1,4 @@
-# Use Google Calendar API to help organize due dates/lectures
+### Use Google Calendar API to help organize due dates/lectures
 
 
 ## Project Proposal
